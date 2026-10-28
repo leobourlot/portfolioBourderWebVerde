@@ -7,6 +7,13 @@ import dtgas from '/dtgasCaptura.webp'
 const Portfolio = () => {
     const projects = [
         {
+            title: 'Pertusatti | Sabalette - Abogadas',
+            url: 'https://persaestudiojuridico.com.ar',
+            description: 'Web del estudio jurídico, con sistema para base de datos de clientes, donde los mismos pueden ver el avance de sus causas.',
+            image: '/persaestudio.webp',
+            tags: ['Abogado', 'Estudio Jurídico', 'Clientes'],
+        },
+        {
             title: 'Club de Pádel y Tenis — reservas online',
             url: 'prueba1-turnos.bourderweb.com.ar',
             description: 'Implementación real de Bourder Turnos: reserva de canchas 24hs, gestión de usuarios y horarios sin planillas ni llamados, para un club de pádel y tenis.',

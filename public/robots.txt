@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bourderweb.com.ar/sitemap.xml

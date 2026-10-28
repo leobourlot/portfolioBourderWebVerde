@@ -44,7 +44,7 @@ const Footer = () => {
                         <ul className="space-y-2 text-slate-400">
                             <li>Leonardo Bourlot</li>
                             <li>Mariela Derudder</li>
-                            <li>contacto@bourderweb.com</li>
+                            <li>contacto@bourderweb.com.ar</li>
                             <li>
                                 <a href="https://www.instagram.com/bourderweb/" target='_blank' rel='noopener noreferrer' className="flex items-center gap-2 hover:text-emerald-400 transition-colors">
                                     <Instagram size={18} />
